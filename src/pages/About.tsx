@@ -110,9 +110,7 @@ const About = (): JSX.Element => {
     <div>
     <AboutContainer>
       <Nav>
-        <HeaderLinkContainer>
-          <a href="https://github.com/lissy93/web-check"><Button>View on GitHub</Button></a>
-        </HeaderLinkContainer>
+       
       </Nav>
 
       <Heading as="h2" size="medium" color={colors.primary}>Intro</Heading>
